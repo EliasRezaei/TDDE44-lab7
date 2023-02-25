@@ -1,0 +1,8 @@
+Spell check for  'mellan1.txt' took 2.8 sekunder.
+[line 6], bercow: beror, behov, bero.
+[line 6], brexitförslag: förslag, religiösa, lagförslag.
+[line 8], plusavtal: avtal, samtal, platta.
+[line 14], annamaja: annat, annan, anna.
+[line 14], brexitprocessen: processen, expressen, processer.
+[line 29], brexitörerna: arrangörerna, britterna, operatörerna.
+[line 38], brexitanhängarna: förväntningarna, anhängare, deltagarna.

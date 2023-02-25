@@ -1,0 +1,9 @@
+Spell check for  'kort1.txt' took 5.1 sekunder.
+[line 1], notredame: utreda, utredare, noterade.
+[line 4], totalförstörelse: socialstyrelsen, förståelse, valrörelsen.
+[line 6], notredames: utredare, noterade, noterades.
+[line 7], jeanclaude: kallade, meddelade, handlade.
+[line 7], gallet: valet, fallet, galet.
+[line 9], huvudtornen: huvudstaden, huvudrollen, huvudpersonen.
+[line 11], klocktornen: klockan, koncernen, flickorna.
+[line 17], talskatedralen: australien, almedalen, skandalen.
